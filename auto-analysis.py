@@ -60,7 +60,7 @@ def main():
         f.write("\n\n## df.describe()\n\n")
         f.write(str(df.describe()))
         f.write("\n\n## r-squared\n\n")
-        f.write(lr.score(X_test, y_test))
+        f.write(str(lr.score(X_test, y_test)))
 
 
 if __name__ == "__main__":
