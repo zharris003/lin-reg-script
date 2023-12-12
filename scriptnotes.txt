@@ -1,0 +1,1 @@
+The r-squared score is approximately 0.4 indicating that there is a low-moderate match between the testing data and predictions. This makes sense considering the scatter plot, which shows a reasonable trend between the variables, but still has quite a few data points that stray significantly from a noticable trend line.
